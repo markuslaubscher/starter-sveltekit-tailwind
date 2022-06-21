@@ -1,6 +1,10 @@
 # Starter Sveltekit & Tailwind
 
+<<<<<<< HEAD
 Everything you need to build a Svelte project, powered by [`sveltekit`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte) and [`tailwind`](https://github.com/tailwindlabs/tailwindcss).
+=======
+Everything you need to build a Svelte project, powered by [`sveltekit`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte) and ['tailwind'](https://github.com/tailwindlabs/tailwindcss).
+>>>>>>> ed20ef5e56f8370ec6a26a3b6c420f250bfacef9
 
 ## Get started
 
