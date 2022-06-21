@@ -1,5 +1,5 @@
 {
-	"name": "starter-vite-sveltekit-tailwind",
+	"name": "starter-sveltekit-tailwind",
 	"version": "0.0.1",
 	"scripts": {
 		"dev": "svelte-kit dev",
